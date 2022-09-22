@@ -6,6 +6,6 @@ Repositorio de introducción a Python del  del curso de Samsung Innovation Campu
  al
 En estos ejemplos se aprendió a realizar la conexión del sensor MLX90614 con la raspberry pi 
 
-# Salida de la terminal de la RPI al ejecutar el código 
+## Salida de la terminal de la RPI al ejecutar el código que nos permite visualizar los datos del sensor MLX90614
 
 ![imagen](https://user-images.githubusercontent.com/72757419/191837180-ecd86e99-5ec7-4972-b7a7-9e17844b94ca.png)
